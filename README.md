@@ -13,5 +13,4 @@ A simple yet competitive Rock-Paper-Scissors game built in Java. Play against a 
 * Input validation (no cheating with "fireball")
 * Randomized AI opponent
 * Option to replay or exit
-
-## Future upgrades? (stay tuned!)
+* It keeps track of your score, so you know exactly how much you're winning… or losing.
